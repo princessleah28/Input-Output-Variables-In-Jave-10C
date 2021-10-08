@@ -1,1 +1,1 @@
-# Input-Output-Variables-In-Jave-10C
+# Input-Output-Variables-In-Java-10C
